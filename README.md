@@ -1,5 +1,7 @@
 # JPGtoPNG-Converter
 
+PNG files are often preferred in web development over JPG files because they support transparency and provide higher quality images. PNG files are ideal for graphics, logos, and other images with sharp edges or text. They are a lossless format, meaning they preserve more image detail, resulting in a higher quality image.
+
 
 Installation:
 1. git clone
