@@ -4,7 +4,9 @@ PNG files are often preferred in web development over JPG files because they sup
 
 
 Installation:
+```
 1. git clone
+```
 2. cd JPGtoPNG-Converter/
 3. python3 -m venv venv # create virtual environment
 4. . venv/bin/activate (.fish # if you're using fish) 
